@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola Mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Gabriel 👨‍💻</h1>
-<p align="center">Desarrollador de Software FullStack (DAM) — Tarifa, España</p>
+<p align="center">Desarrollador de Software FullStack — España</p>
 
 <p align="center">Frontend y maquetación con JavaScript, HTML y CSS · Backend, bases de datos y aplicaciones .NET con C# · Web, móvil y escritorio para clientes europeos</p>
 
